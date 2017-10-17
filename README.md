@@ -5,8 +5,7 @@
 Metadata for the UT Theater Playbills collection migrated from mPDS to Islandora.
 
 |-- cleaned_data
-    |-- modsxml
-		    |-- .xml
+	|-- .xml
     |-- remediation_files
         |-- final_cleaned.csv
         |-- final_export_of_project.openrefine.tar.gz
