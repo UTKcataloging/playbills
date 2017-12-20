@@ -31,24 +31,7 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
       </role>
    </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n78087607"
-         authority="naf">
-      <namePart>Carroll, John, 1906-1979</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n78087607"
-         authority="naf">
-      <namePart>Carroll, John, 1906-1979</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n83198082"
-         authority="naf">
+   <name>
       <namePart>Julian, Faye D.</namePart>
       <role>
          <roleTerm authority="marcrelator"
