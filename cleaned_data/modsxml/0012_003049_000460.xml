@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/no99083118"
          authority="naf">
-      <namePart>Schwartz, Stephen</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no99083118"
-         authority="naf">
-      <namePart>Schwartz, Stephen</namePart>
+      <namePart>Tebelak, John-Michael</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

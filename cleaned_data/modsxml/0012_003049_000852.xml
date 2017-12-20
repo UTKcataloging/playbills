@@ -32,15 +32,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n86140046"
          authority="naf">
-      <namePart>Deane, Hamilton</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n86140046"
-         authority="naf">
-      <namePart>Deane, Hamilton</namePart>
+      <namePart>Balderston, John L. (John Lloyd), 1889-1954</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n82122617"
          authority="naf">
-      <namePart>Agee, James, 1909-1955</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n82122617"
-         authority="naf">
-      <namePart>Agee, James, 1909-1955</namePart>
+      <namePart>Mosel, Tad</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

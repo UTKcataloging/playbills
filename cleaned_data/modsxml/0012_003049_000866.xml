@@ -32,15 +32,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n90713020"
          authority="naf">
-      <namePart>Saint-Exupéry, Antoine de, 1900-1944</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n90713020"
-         authority="naf">
-      <namePart>Saint-Exupéry, Antoine de, 1900-1944</namePart>
+      <namePart>Cummins, Rick</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

@@ -32,14 +32,7 @@
       </role>
    </name>
    <name>
-      <namePart>Hecht, Ben</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Hecht, Ben</namePart>
+      <namePart>MacArthur, Charles, 1895-1956</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

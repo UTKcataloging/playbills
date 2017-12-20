@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/no2010033283"
          authority="naf">
-      <namePart>Brecht, Bertolt, 1898-1956</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no2010033283"
-         authority="naf">
-      <namePart>Brecht, Bertolt, 1898-1956</namePart>
+      <namePart>Edgar, David</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

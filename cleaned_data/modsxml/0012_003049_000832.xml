@@ -32,15 +32,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n80017631"
          authority="naf">
-      <namePart>Deval, Jacques, 1890-1972</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n80017631"
-         authority="naf">
-      <namePart>Deval, Jacques, 1890-1972</namePart>
+      <namePart>Sherwood, Robert E. (Robert Emmet), 1896-1955</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

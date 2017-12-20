@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n2003110411"
          authority="naf">
-      <namePart>Rodgers, Richard</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n2003110411"
-         authority="naf">
-      <namePart>Rodgers, Richard</namePart>
+      <namePart>Hammerstein, Oscar</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

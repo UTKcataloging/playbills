@@ -32,15 +32,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n79061320"
          authority="naf">
-      <namePart>Osborn, Paul</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n79061320"
-         authority="naf">
-      <namePart>Osborn, Paul</namePart>
+      <namePart>Marquand, John P. (John Phillips), 1893-1960</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

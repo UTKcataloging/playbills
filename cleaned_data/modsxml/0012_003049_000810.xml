@@ -30,14 +30,7 @@
       </role>
    </name>
    <name>
-      <namePart>Madden, Jerry</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Madden, Jerry</namePart>
+      <namePart>Rule, Genby</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

@@ -32,14 +32,7 @@
       </role>
    </name>
    <name>
-      <namePart>Isherwood, Christopher, 1904-1986</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Isherwood, Christopher, 1904-1986</namePart>
+      <namePart>Bachardy, Don</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

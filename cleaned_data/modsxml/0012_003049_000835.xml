@@ -32,15 +32,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n86861306"
          authority="naf">
-      <namePart>Heggen, Thomas, 1919-1949</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n86861306"
-         authority="naf">
-      <namePart>Heggen, Thomas, 1919-1949</namePart>
+      <namePart>Logan, Joshua</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

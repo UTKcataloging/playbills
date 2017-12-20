@@ -32,14 +32,7 @@
       </role>
    </name>
    <name>
-      <namePart>Haubold, Cleve</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Haubold, Cleve</namePart>
+      <namePart>Hitt, James</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

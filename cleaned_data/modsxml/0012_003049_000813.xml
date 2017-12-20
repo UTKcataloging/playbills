@@ -31,15 +31,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n2017002174"
          authority="naf">
-      <namePart>Swain, J. Robert</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n2017002174"
-         authority="naf">
-      <namePart>Swain, J. Robert</namePart>
+      <namePart>Holdridge, David</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

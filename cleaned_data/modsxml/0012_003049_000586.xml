@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n95013886"
          authority="naf">
-      <namePart>Adler, Richard</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n95013886"
-         authority="naf">
-      <namePart>Adler, Richard</namePart>
+      <namePart>Ross, Jerry</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

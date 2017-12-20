@@ -32,15 +32,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n2017045454"
          authority="naf">
-      <namePart>Davidson, James F., 1924-2008</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n2017045454"
-         authority="naf">
-      <namePart>Davidson, James F., 1924-2008</namePart>
+      <namePart>Schwab, Rudolf, 1911-1971</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

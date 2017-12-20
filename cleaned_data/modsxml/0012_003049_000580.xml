@@ -32,14 +32,7 @@
       </role>
    </name>
    <name>
-      <namePart>Alcott, Louisa May, 1832-1888</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Alcott, Louisa May, 1832-1888</namePart>
+      <namePart>Harris, Albert J. (Albert James)</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

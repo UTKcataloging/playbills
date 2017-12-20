@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n79063710"
          authority="naf">
-      <namePart>Ferber, Edna, 1887-1968</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n79063710"
-         authority="naf">
-      <namePart>Ferber, Edna, 1887-1968</namePart>
+      <namePart>Kaufman, George S. (George Simon), 1889-1961</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

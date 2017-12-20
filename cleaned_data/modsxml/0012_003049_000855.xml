@@ -31,15 +31,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n50007646"
          authority="naf">
-      <namePart>Schumann, Peter</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n50007646"
-         authority="naf">
-      <namePart>Schumann, Peter</namePart>
+      <namePart>Terry, Megan</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

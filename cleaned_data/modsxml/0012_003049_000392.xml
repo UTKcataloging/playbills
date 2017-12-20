@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/nr2002037918"
          authority="naf">
-      <namePart>Mortimer, John, 1923-2009</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/nr2002037918"
-         authority="naf">
-      <namePart>Mortimer, John, 1923-2009</namePart>
+      <namePart>Shaffer, Peter</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

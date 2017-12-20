@@ -32,14 +32,7 @@
       </role>
    </name>
    <name>
-      <namePart>Gilbert, W. S. (William Schwenck), 1836-1911</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Gilbert, W. S. (William Schwenck), 1836-1911</namePart>
+      <namePart>Sullivan, Arthur</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

@@ -31,7 +31,16 @@
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
       </role>
    </name>
-   <name>
+   <name valueURI="http://id.loc.gov/authorities/names/n78087607"
+         authority="naf">
+      <namePart>Dickens, Charles, 1812-1870</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n83198082"
+         authority="naf">
       <namePart>Julian, Faye D.</namePart>
       <role>
          <roleTerm authority="marcrelator"

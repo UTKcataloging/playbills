@@ -32,14 +32,7 @@
       </role>
    </name>
    <name>
-      <namePart>Bolton, Guy</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Bolton, Guy</namePart>
+      <namePart>Maugham, W. Somerset (William Somerset), 1874-1965</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

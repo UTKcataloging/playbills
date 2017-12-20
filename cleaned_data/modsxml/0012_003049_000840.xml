@@ -31,15 +31,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n50046656"
          authority="naf">
-      <namePart>Denature, Friedrich</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n50046656"
-         authority="naf">
-      <namePart>Denature, Friedrich</namePart>
+      <namePart>Valency, Maurice, 1903-1996</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

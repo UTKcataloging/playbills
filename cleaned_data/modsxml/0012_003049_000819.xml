@@ -31,14 +31,7 @@
       </role>
    </name>
    <name>
-      <namePart>Medlock, Henrietta</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>Medlock, Henrietta</namePart>
+      <namePart>DeCamp, Dot</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

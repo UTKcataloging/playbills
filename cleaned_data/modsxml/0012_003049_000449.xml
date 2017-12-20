@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n80056886"
          authority="naf">
-      <namePart>Synge, J. M. (John Millington), 1871-1909</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n80056886"
-         authority="naf">
-      <namePart>Synge, J. M. (John Millington), 1871-1909</namePart>
+      <namePart>Gregory, Lady, 1852-1932</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

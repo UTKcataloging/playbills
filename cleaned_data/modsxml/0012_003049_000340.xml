@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n82099784"
          authority="naf">
-      <namePart>Lindsay, Howard, 1889-1968</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/n82099784"
-         authority="naf">
-      <namePart>Lindsay, Howard, 1889-1968</namePart>
+      <namePart>Crouse, Russel, 1893-1966</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>

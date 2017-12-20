@@ -33,15 +33,7 @@
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/no94000769"
          authority="naf">
-      <namePart>Harbach, Otto, 1873-1963</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no94000769"
-         authority="naf">
-      <namePart>Harbach, Otto, 1873-1963</namePart>
+      <namePart>Mandel, Frank, 1884-1958</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
