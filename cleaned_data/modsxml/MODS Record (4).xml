@@ -21,7 +21,7 @@
    <name valueURI="http://id.loc.gov/authorities/names/n79034816" authority="naf">
       <namePart>Stoppard, Tom</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
       </role>
    </name>
    <name>
