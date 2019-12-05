@@ -1,10 +1,58 @@
-
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <identifier type="local">0012_003049_000876</identifier>
   <titleInfo>
     <title>Spamalot</title>
   </titleInfo>
-  <originInfo>
+  <abstract>Playbill, April 24 2014, Clarence Brown Theatre, Directed by Bill Jenkins</abstract>
+  <name valueURI="http://id.loc.gov/authorities/names/n50031974" authority="naf">
+    <namePart>Idle, Eric</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
+    </role>
+  </name>
+  <name valueURI="http://id.loc.gov/authorities/names/n92019918" authority="naf">
+    <namePart>Du Prez, John</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Jenkins, Bill</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Stage director</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Clarence Brown Company</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/prn">Production company</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Silver-Alford, Terry</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Stage director</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Zimmerman, Christie</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Pickart, Christopher</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+  <name valueURI="http://id.loc.gov/authorities/names/n97850621" authority="naf">
+    <namePart>Hatley, Tim</namePart>
+    <role>
+      <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+    </role>
+  </name>
+<originInfo>
     <dateIssued>April 24, 2014</dateIssued>
     <dateIssued encoding="edtf">2014-04-24</dateIssued>
     <place>
