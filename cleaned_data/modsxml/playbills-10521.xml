@@ -12,7 +12,7 @@
       </place>
       <publisher>University of Tennessee Theatre Department</publisher>
    </originInfo>
-   <abstract>Playbill, April 2012, Clarence Brown Theatre, Directed by Calvin MacLean</abstract>
+   <abstract>Playbill, April, 2012, Clarence Brown Theatre, Directed by Calvin MacLean</abstract>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
          <title>The University of Tennessee Theatre Playbills Collection</title>
@@ -21,25 +21,25 @@
    <name valueURI="http://id.loc.gov/authorities/names/n82047872" authority="naf">
       <namePart>Spewack, Bella Cohen, 1899-1990</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
       </role>
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n82047871" authority="naf">
       <namePart>Spewack, Samuel, 1899-1971</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
       </role>
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n80017862" authority="naf">
       <namePart>Porter, Cole, 1891-1964</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Lyricist</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
       </role>
    </name>
    <name>
       <namePart>Wilson, John C.</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Stage manager</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/stm">Stage manager</roleTerm>
       </role>
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n96036746" authority="naf">
