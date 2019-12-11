@@ -3,7 +3,7 @@
    <titleInfo>
       <title>Man of La Mancha</title>
    </titleInfo>
-   <abstract>Playbill, April 15-May 2, 2010, The Clarence Brown Theatre, Directed by Paul Barnes</abstract>
+   <abstract>Playbill, April, 2010, The Clarence Brown Theatre, Directed by Paul Barnes</abstract>
    <originInfo>
       <dateIssued>Apr 15, 2010</dateIssued>
       <dateIssued encoding="edtf">2010-04-15</dateIssued>
@@ -27,32 +27,32 @@
    <name>
       <namePart>Darian, Joe</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Lyricist</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/lyr">Lyricist</roleTerm>
       </role>
    </name>
    <name valueURI="http://id.loc.gov/authorities/names/n88090379 authority=naf">
       <namePart>Leigh, Mitch, 1928-2014</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Composer</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cmp">Composer</roleTerm>
       </role>
    </name> 
    <name>
          <namePart>Marre, Albert</namePart>
          <role>
-            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Stage manager</roleTerm>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/stm">Stage manager</roleTerm>
          </role>
       </name> 
    <name>
       <namePart>Seldon, Albert W.</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Producer</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pro">Producer</roleTerm>
       </role>
    </name> 
    
       <name>
          <namePart>James, Hal</namePart>
          <role>
-            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Producer</roleTerm>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pro">Producer</roleTerm>
          </role>
       </name> 
       <name>
