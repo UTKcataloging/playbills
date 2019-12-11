@@ -3,7 +3,7 @@
    <titleInfo>
       <title>On the Razzle</title>
    </titleInfo>
-   <abstract>Playbill, April 2013, Clarence Brown Theatre, Directed by Gary M. English</abstract>
+   <abstract>Playbill, April, 2013, Clarence Brown Theatre, Directed by Gary M. English</abstract>
    <originInfo>
       <dateIssued>Apr 25, 2013</dateIssued>
       <dateIssued encoding="edtf">2013-04-25</dateIssued>
@@ -21,7 +21,7 @@
    <name valueURI="http://id.loc.gov/authorities/names/n79034816" authority="naf">
       <namePart>Stoppard, Tom</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
       </role>
    </name>
    <name>
