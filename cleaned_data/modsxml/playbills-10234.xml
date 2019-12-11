@@ -1,13 +1,16 @@
+
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_003049_000806</identifier>
+   <identifier type="local">0012_003049_000871</identifier>
    <titleInfo>
-      <title>The Music Man</title>
+      <title>Five Women Wearing the Same Dress</title>
    </titleInfo>
-   <abstract>Playbill, April 21 - May 15, 2011, Clarence Brown Theatre, Directed by Risa Brainin.</abstract>
+   
+   <abstract>Playbill, Arpil, 2013, Clarence Brown Theatre, Directed by Carol Mayo Jenkins</abstract>
+   
    <originInfo>
-      <dateIssued>Apr 21, 2011</dateIssued>
-      <dateIssued encoding="edtf">2011-04-21</dateIssued>
-      <dateOther encoding="edtf">2010/2011</dateOther>
+      <dateIssued>Apr 4, 2013</dateIssued>
+      <dateIssued encoding="edtf">2013-04-04</dateIssued>
+      <dateOther encoding="edtf">2012/2013</dateOther>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n80003889">University of Tennessee, Knoxville</placeTerm>
       </place>
@@ -18,42 +21,36 @@
          <title>The University of Tennessee Theatre Playbills Collection</title>
       </titleInfo>
    </relatedItem>
-   <name valueURI="http://id.loc.gov/authorities/names/n83042585" authority="naf">
-      <namePart>Willson, Meredith, 1902-1984</namePart>
+   <name valueURI="http://id.loc.gov/authorities/names/n94116225" authority="naf">
+      <namePart>Ball, Alan</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
-      </role>
-   </name>  
-   <name valueURI="http://id.loc.gov/authorities/names/n83042585" authority="naf">
-      <namePart>Willson, Meredith, 1902-1984</namePart>
-      <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Lyricist</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
       </role>
    </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no93011378" authority="naf">
-      <namePart>Lacey, Franklin</namePart>
-      <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/ctb">Author</roleTerm>
-      </role>
-   </name>
-   <name valueURI="http://id.loc.gov/authorities/names/no2015067815" authority="naf">
-      <namePart>Brainin, Risa</namePart>
+   <name>
+      <namePart>Jenkins, Carol Mayo</namePart>
       <role>
          <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Stage director</roleTerm>
       </role>
    </name>
    <name>
-      <namePart>Mak, Amber</namePart>
+      <namePart>Acklin, India</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Choreographer</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/std">Set designer</roleTerm>
       </role>
-   </name>
+   </name> 
    <name>
-      <namePart>Silver-Alford, Terry</namePart>
+      <namePart>Dearmin, Alex</namePart>
       <role>
-         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/sgd">Musical director</roleTerm>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/stm">Stage manager</roleTerm>
       </role>
-   </name>
+   </name> 
+   <name>
+      <namePart>Yang, Poua</namePart>
+      <role>
+         <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cst">Costume designer</roleTerm>
+      </role>
+   </name> 
    <name>
       <namePart>Clarence Brown Company</namePart>
       <role>
