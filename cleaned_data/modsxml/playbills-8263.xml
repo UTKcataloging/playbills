@@ -37,7 +37,7 @@
       </role>
    </name> 
    <name>
-         <namePart>Marre, Albert</namePart>
+       <namePart>Marre, Albert</namePart>
          <role>
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/stm">Stage manager</roleTerm>
          </role>
@@ -48,15 +48,13 @@
          <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pro">Producer</roleTerm>
       </role>
    </name> 
-   
-      <name>
+   <name>
          <namePart>James, Hal</namePart>
          <role>
             <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pro">Producer</roleTerm>
          </role>
       </name> 
       <name>
-      
       <namePart>Clarence Brown Company</namePart>
       <role>
          <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/prn">Production company</roleTerm>
